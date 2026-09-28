@@ -1,0 +1,8 @@
+# Go caches kept inside the project (rule 2: self-contained environment)
+.go/
+
+# build and test output
+*.exe
+*.exe~
+*.test
+gofmt.tmp
